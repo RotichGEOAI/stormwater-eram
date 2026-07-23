@@ -1,0 +1,12 @@
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+shapely>=2.0
+geopandas>=1.0
+pyogrio>=0.9
+requests>=2.31
+folium>=0.15
+streamlit-folium>=0.20
+plotly>=5.20
+matplotlib>=3.8
+reportlab>=4.0
